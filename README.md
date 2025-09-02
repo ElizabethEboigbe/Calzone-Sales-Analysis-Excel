@@ -26,6 +26,8 @@ Alpha Calzone is facing challenges understanding its sales performance across pr
 - Provide actionable recommendations to improve sales performance.  
 
 ---
+## Data Used
+-<a href="https://github.com/ElizabethEboigbe/Calzone-Sales-Analysis-Excel/blob/main/Copy%20of%20calzone%20sales%20report.xlsx">Dataset</a>
 
 ## Dataset Description
  
