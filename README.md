@@ -108,7 +108,8 @@ The dataset contains order-level information, including:
 - **Formulas:** `COUNTIF`, `TEXT`, arithmetic calculations for KPIs  
 - **Charts:** Column, Line, Donut, 3D Pie, Funnel, Bar  
 
- 
+ #3 Interactive dashboard
+-<a href="https://github.com/ElizabethEboigbe/Calzone-Sales-Analysis-Excel/blob/main/Calzone%20Interactive%20Dashboard.xlsx">interactive dashboard</a>
 
 ---
 
@@ -116,4 +117,8 @@ The dataset contains order-level information, including:
 - **Boost Veggie Sales:** Increase marketing efforts (discounts, combos, campaigns) to attract more veggie calzone buyers.  
 - **Leverage Peak Sales Day:** Employ more staff on Sundays and consider staff bonuses to handle high demand.  
 - **Customer Feedback Loop:** Collect and analyze feedback to improve recipes and enhance customer satisfaction.  
-- **Data Quality Check:** Investigate missing sales data for Thursday–Saturday to ensure accuracy.  
+- **Data Quality Check:** Investigate missing sales data for Thursday–Saturday to ensure accuracy.
+
+
+<img width="1269" height="602" alt="calzone sales dashboard" src="https://github.com/user-attachments/assets/8d86def2-8ffb-46a8-8364-052bda032a05" />
+
