@@ -28,8 +28,7 @@ Alpha Calzone is facing challenges understanding its sales performance across pr
 ---
 
 ## Dataset Description
-<details>
-<summary>Click to expand</summary>
+ 
 
 The dataset contains order-level information, including:  
 - Order ID  
@@ -44,13 +43,12 @@ The dataset contains order-level information, including:
 - Ingredients  
 - Revenue  
 
-</details>
+ 
 
 ---
 
 ## Data Cleaning & Preparation
-<details>
-<summary>Click to expand</summary>
+ 
 
 - Removed duplicates: none were found.  
 - Renamed products: changed “Pizza” to “Calzone.”  
@@ -61,28 +59,23 @@ The dataset contains order-level information, including:
 - Checked for errors.  
 - Formatted date column consistently.  
 
-</details>
+ 
 
 ---
 
 ## KPIs Defined
-<details>
-<summary>Click to expand</summary>
-
+ 
 - **Total Revenue** = Sum of all calzones ordered  
 - **Total Calzones Sold** = Sum of all quantities  
 - **Total Orders** = Distinct count of `order_id`  
 - **Average Order Value (AOV)** = Total Revenue ÷ Total Orders  
 - **Average Calzone per Order** = Total Calzones Sold ÷ Total Orders  
 
-</details>
-
+ 
 ---
 
 ## Analysis & Visualizations
-<details>
-<summary>Click to expand</summary>
-
+ 
 1. Daily Trend of Orders – Column Chart  
 2. Hourly Trend of Orders – Line Chart  
 3. % Sales by Category – Donut Chart  
@@ -92,32 +85,28 @@ The dataset contains order-level information, including:
 7. Bottom 5 Least-Selling Calzones – Bar Chart  
 8. Interactive Dashboard combining all charts  
 
-</details>
+ 
 
 ---
 
 ## Key Insights
-<details>
-<summary>Click to expand</summary>
-
+ 
 - Sunday recorded the highest sales, while Wednesday recorded the lowest.  
 - No sales data available for Thursday, Friday, and Saturday.  
 - Classic category is the most popular, while Veggie category is the least popular.  
 - Medium size is the most frequently ordered calzone.  
 
-</details>
-
+ 
 ---
 
 ## Tools & Techniques Used
-<details>
-<summary>Click to expand</summary>
+ 
 
 - **Excel** (Data Cleaning, Pivot Tables, KPIs, Visualizations, Dashboard)  
 - **Formulas:** `COUNTIF`, `TEXT`, arithmetic calculations for KPIs  
 - **Charts:** Column, Line, Donut, 3D Pie, Funnel, Bar  
 
-</details>
+ 
 
 ---
 
