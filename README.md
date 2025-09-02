@@ -108,7 +108,7 @@ The dataset contains order-level information, including:
 - **Formulas:** `COUNTIF`, `TEXT`, arithmetic calculations for KPIs  
 - **Charts:** Column, Line, Donut, 3D Pie, Funnel, Bar  
 
- #3 Interactive dashboard
+## Interactive dashboard
 -<a href="https://github.com/ElizabethEboigbe/Calzone-Sales-Analysis-Excel/blob/main/Calzone%20Interactive%20Dashboard.xlsx">interactive dashboard</a>
 
 ---
